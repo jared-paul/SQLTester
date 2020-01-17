@@ -1,0 +1,12 @@
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\bin\Release\netcoreapp2.1\Tester.deps.json
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\bin\Release\netcoreapp2.1\Tester.runtimeconfig.json
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\bin\Release\netcoreapp2.1\Tester.runtimeconfig.dev.json
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\bin\Release\netcoreapp2.1\Tester.dll
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\bin\Release\netcoreapp2.1\Tester.pdb
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\obj\Release\netcoreapp2.1\Tester.csproj.CoreCompileInputs.cache
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\obj\Release\netcoreapp2.1\Tester.AssemblyInfoInputs.cache
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\obj\Release\netcoreapp2.1\Tester.AssemblyInfo.cs
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\obj\Release\netcoreapp2.1\Tester.dll
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\obj\Release\netcoreapp2.1\Tester.pdb
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\obj\Release\netcoreapp2.1\Tester.csprojAssemblyReference.cache
+C:\Users\jared.paul\Desktop\projects\Tester\Tester\bin\Release\netcoreapp2.1\Tester.dll.config
