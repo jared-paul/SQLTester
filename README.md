@@ -16,4 +16,4 @@ Once installed you can open cmd and run the program from the root directory by d
 It should now run in the cmd you opened.
 
 You must have the paired application running before starting this one as it immediately tries to connect to it.
-Paired Application: https://code.maruhub.com/projects/MB/repos/tester_sql_executor/
+Paired Application: https://github.com/jared-paul/SQLTaskExecutor
